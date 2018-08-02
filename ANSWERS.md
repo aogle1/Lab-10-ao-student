@@ -83,4 +83,4 @@ Belgium,
    - Written part: Give two or three examples of how/why a real-world map might require more than four colors.
   
       - If a country has a portion of its territory not connected to the mainland a fith color could be necessary.
-      - If a country splits in two and a new country is created, such as South Sudan, a new color could be necessary. 
+      - If a country splits in two and a new country is created, such as South Sudan, more than four colors could be necessary. 
