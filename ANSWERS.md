@@ -3,68 +3,76 @@
    - Written part: Discuss the differences among the results. Does the starting point make a difference?
    
       - Breadthfirst iteration starting from France:
-France
-Spain
-Switzerland
-Italy
-Germany
-Belgium
+      
+France,
+Spain,
+Switzerland,
+Italy,
+Germany,
+Belgium,
 
       - Breadthfirst iteration starting from Switzerland:
-Switzerland
-France
-Germany
-Italy
-Spain
-Belgium
+      
+Switzerland,
+France,
+Germany,
+Italy,
+Spain,
+Belgium,
 
       - ClosestFirstIterator<> iteration starting from France:
-France
-Spain
-Switzerland
-Italy
-Germany
-Belgium
+      
+France,
+Spain,
+Switzerland,
+Italy,
+Germany,
+Belgium,
 
       - ClosestFirstIterator<> iteration starting from Switzerland:
-Switzerland
-France
-Germany
-Italy
-Spain
-Belgium
+      
+Switzerland,
+France,
+Germany,
+Italy,
+Spain,
+Belgium,
 
       - DepthFirstIterator<> iteration starting from France:
-France
-Belgium
-Germany
-Switzerland
-Italy
-Spain
+      
+France,
+Belgium,
+Germany,
+Switzerland,
+Italy,
+Spain,
 
       - DepthFirstIterator<> iteration starting from Switzerland:
-Switzerland
-Italy
-France
-Belgium
-Germany
-Spain
+      
+Switzerland,
+Italy,
+France,
+Belgium,
+Germany,
+Spain,
 
       - RandomWalkIterator iteration starting from France:
-Belgium
-Germany
-France
-Switzerland
-Italy
-Switzerland
+      
+Belgium,
+Germany,
+France,
+Switzerland,
+Italy,
+Switzerland,
 
       - RandomWalkIterator iteration starting from Switzerland:
-Germany
-Belgium
-Germany
-Belgium
-France
-Belgium
+      
+Germany,
+Belgium,
+Germany,
+Belgium,
+France,
+Belgium,
 
 
 
