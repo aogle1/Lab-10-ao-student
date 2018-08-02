@@ -78,9 +78,9 @@ Belgium,
 
    - Written part: Discuss how ClosestFirstIterator and RandomWalkIterator work.
    
-      - RandomWalkIterator randomly takes a path starting from a random vertex. ClosestFirstIterator will start taking a path at a connected vertex then travesrses regardless of vertex connections. 
+      - RandomWalkIterator randomly takes a path starting from a random vertex. ClosestFirstIterator will start taking a path at a connected vertex then traverses regardless of vertex connections. 
       
    - Written part: Give two or three examples of how/why a real-world map might require more than four colors.
   
       - If a country has a portion of its territory not connected to the mainland a fith color could be necessary.
-      - 
+      - If a country splits in two and a new country is created, such as South Sudan, a new color could be necessary. 
