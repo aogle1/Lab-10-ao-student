@@ -1,4 +1,4 @@
-1. Answer the following questions, also in Answers.md:
+## Lab 10 Written Answers
 
    - Written part: Discuss the differences among the results. Does the starting point make a difference?
    
